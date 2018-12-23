@@ -1,4 +1,4 @@
-package com.fanyank;
+package com.fanyank.collection;
 
 import com.google.common.collect.BiMap;
 import com.google.common.collect.HashBiMap;
